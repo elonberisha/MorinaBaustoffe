@@ -66,22 +66,15 @@
         <li class="nav-item"><a href="#clients">Klientët</a></li>
         <li class="nav-item"><a href="#products">Produktet</a></li>
         <li class="nav-item"><a href="#contact">Kontakt</a></li>
-        <li class="nav-icons" aria-label="Lidhje të shpejta">
-          <a href="https://wa.me/491723111128" target="_blank" rel="noopener" class="nav-icon" aria-label="Whatsapp">
-            <i class="fab fa-whatsapp"></i>
-          </a>
-          <a href="tel:+491723111128" class="nav-icon" aria-label="Telefono">
-            <i class="fas fa-phone"></i>
-          </a>
-          <a href="https://www.instagram.com/morinabaustoffe/" target="_blank" rel="noopener" class="nav-icon" aria-label="Instagram">
-            <i class="fab fa-instagram"></i>
-          </a>
-          <a href="https://www.facebook.com/morinabaustoffe/" target="_blank" rel="noopener" class="nav-icon" aria-label="Facebook">
-            <i class="fab fa-facebook"></i>
-          </a>
-        </li>
+        
       </ul>
+      <button class="mobile-menu" type="button" aria-label="Hap menunë" aria-expanded="false">
+        <span class="bar"></span>
+        <span class="bar"></span>
+        <span class="bar"></span>
+      </button>
     </nav>
+    <div class="nav-overlay"></div>
 
     <!-- Hero Section - 3D Modern -->
     <section class="hero" id="hero">
