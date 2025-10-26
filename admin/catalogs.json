@@ -1,0 +1,28 @@
+{
+    "categories": [
+        {
+            "name": "Bojrat",
+            "slug": "bojrat",
+            "catalogs": [
+                {
+                    "name": "Bojrat e fasadës",
+                    "slug": "bojrat-fasade"
+                },
+                {
+                    "name": "Bojrat e brendshme",
+                    "slug": "bojrat-brendshme"
+                }
+            ]
+        },
+        {
+            "name": "fasada",
+            "slug": "fasada",
+            "catalogs": [
+                {
+                    "name": "Katallogu i fasadave",
+                    "slug": "katallogu-i-fasadave-8f52"
+                }
+            ]
+        }
+    ]
+}
